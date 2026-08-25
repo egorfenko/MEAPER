@@ -1,4 +1,4 @@
-# MEAPER
+# MEAPER Copyright (c) 2026 Egor Fenko
 Modular hybrid actuator design (NiTi, Robotics)
 An attempt to solve infinite DoF problem of soft actuators by hardware descritization.
 You can find more details about this project in attached MEAPER.pdf.
