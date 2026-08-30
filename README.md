@@ -9,3 +9,7 @@ to run app.py with inverse kinematics simulation:
 3. go to installed directory in terminal
 4. run
    python app.py
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+P.S. for GaussNewton solver lr can be confidently set to 1
+for slsqp  options can be set to options={'ftol': 1e-3, 'disp': False, 'maxiter': 10} with almost no loss in accuracy.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
